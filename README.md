@@ -1,4 +1,5 @@
-# Git-Starting
+# Git-Starting 
+![DEV](https://img.shields.io/badge/Dev-Bojidar%20Georgiev%20-%20%2347b3ff)
 ### To start with the new git repository we need to use:
 -  ``git init`` to create the the git repostiory
 
